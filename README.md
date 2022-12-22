@@ -1,6 +1,6 @@
 # Mini-Employee-database
 This was our programming 1 final project.
-This program allows you to create an employee database and you could Perform multiple operations like:
+This program allows you to create an employee database and you could Perform multiple operations like:<br> 
 1- load Database from existing text file.<br>  
 2- Add new Employee to the database.<br>
 3- remove Existing Employee from database.<br>
